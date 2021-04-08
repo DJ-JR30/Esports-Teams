@@ -1,88 +1,117 @@
 @font-face {
-  font-family: myFirstFont;
+  font-family: HhenumR;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/Hhenum-Regular.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: LibreCaslonTextB;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/Libre-Caslon/LibreCaslonText-Bold.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: LibreCaslonTextI;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/Libre-Caslon/LibreCaslonText-Italic.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: LibreCaslonTextR;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/Libre-Caslon/LibreCaslonText-Regular.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: OpentTypeR;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/OpenType/KJV1611.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: BlackLetterH;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/blackletter-hand/BlackletterHand.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: BretanN;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/bretan-pro/Bretan.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: BretanP;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/bretan-pro/BretanPro.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: BretanPB;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/bretan-pro/BretanPro-Bold.ttf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: Cinzel-BlackT;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/Cinzel-Black.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: Cinzel-BoldT;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/Cinzel-Bold.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: Cinzel-Regular;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/Cinzel-Regular.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: CinzelDecorative-BlackT;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/CinzelDecorative-Black.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: CinzelDecorative-BoldT;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/CinzelDecorative-Bold.otf);
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: CinzelDecorative-R;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/cinzel-bold/CinzelDecorative-Regular.otf);
 }
 @font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+  font-family: WireWyrmN;
+  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/wirewyrm/WireWyrm.otf);
 }
 @font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+  font-family: WireWyrmI;
+  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/wirewyrm/WireWyrmItalic.otf);
 }
 @font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+  font-family: WireWyrmM;
+  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/wirewyrm/WireWyrmMedium.otf);
 }
-@font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+
+
+.LibreCaslon {
+  font-family: LibreCaslonTextR !important;
 }
-@font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+.OpentType {
+  font-family: OpentTypeR !important;
 }
-@font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+.BlackLetterHand {
+  font-family: BlackLetterH !important;
 }
-@font-face {
-  font-family: myFirstFont;
-  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/);
+.Bretan {
+  font-family: BretanN !important;
 }
+.BretanPro {
+  font-family: BretanP !important;
+}
+.BretanProBold {
+  font-family: BretanPB !important;
+}
+.Cinzel-Black {
+  font-family: Cinzel-BlackT !important;
+}
+.CinzelR {
+  font-family: Cinzel-Regular !important;
+}
+.CinzelDecorative-Black {
+  font-family: CinzelDecorative-BlackT !important;
+}
+.CinzelDecorative-Bold {
+  font-family: CinzelDecorative-BoldT !important;
+}
+.CinzelDecorativeR {
+  font-family: CinzelDecorative-R !important;
+}
+.WireWyrm-N {
+  font-family: WireWyrmN !important;
+}
+.WireWyrm-I {
+  font-family: WireWyrmI !important;
+}
+.WireWyrm-M {
+  font-family: WireWyrmM !important;
+}
+
