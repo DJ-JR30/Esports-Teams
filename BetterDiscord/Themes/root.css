@@ -1,5 +1,5 @@
 :root {
-  --server-icon-size: 40px;
-  --server-container-padding: 5px;
-  --server-icon-spacing: 5px;
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
 }
