@@ -3,5 +3,23 @@
   "Power": {
     "HorsePower": "627 HP @6300 RPM",
     "Torque": "586 LB-FT @5100 RPM"
+  },
+  "Tech Specs": {
+    "PartNumber": "19355573",
+    "EngineType": "LSX-Series Gen-IV Small-Block V-8",
+    "Displacement": "454 (7.4L)  (cu. in.)",
+    "Bore x Stroke": "4.185 x 4.125 (106.3 x 104.8 mm)  (in.)",
+    "Block": "LSX cast-iron with six-bolt, cross-bolted main caps",
+    "BlockPartNumber": "(P/N 19260099)",
+    "Crankshaft": "4340 forged steel with eight-bolt flange",
+    "CrankshaftPartNumber": "(P/N 19244018)",
+    "Connecting Rods (P/N 19166964)": "4340 forged steel",
+    "ConnectingRodsPartNumber": "(P/N 19166964)",
+    "Pistons": "Forged aluminum",
+    "PistonsPartNumber": "(P/N 19166958)",
+    "CamshaftType": "Hydraulic roller",
+    "CamshaftTypePartNumber": "(P/N 19166972)",
+    "ValveLift": " 0.648 intake / 0.648 exhaust (in.)",
+    "CamshaftDuration": "236° intake / 246° exhaust (@0.050 in.)"
   }
 }
