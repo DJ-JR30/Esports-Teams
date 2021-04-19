@@ -70,6 +70,13 @@
   font-family: WireWyrmM;
   src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/wirewyrm/WireWyrmMedium.otf);
 }
+@font-face {
+  font-family: longsho;
+  src: url(https://dj-jr30.github.io/DiamondProject-FileHost/fonts/LongShot/Long_Shot.ttf);
+}
+
+
+
 
 
 .LibreCaslon {
@@ -114,4 +121,6 @@
 .WireWyrm-M {
   font-family: WireWyrmM !important;
 }
-
+.LongShot {
+  font-family: longsho !important;
+}
